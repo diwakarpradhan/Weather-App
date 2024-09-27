@@ -9,6 +9,7 @@ Accurate weather forecasts and conditions presented through a simple and intuiti
 
 ## Demo
 
+![Screen Recording 2024-09-27 170108](https://github.com/user-attachments/assets/7e79a936-ca88-4dd9-96ed-f54950daf329)
 
 ## Features
 - Provides real-time weather information based on location.
