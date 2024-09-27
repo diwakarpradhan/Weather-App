@@ -1,5 +1,5 @@
 
-#Weather App
+# Weather App
 Accurate weather forecasts and conditions presented through a simple and intuitive interface.
 ## Technologies
 - **Frontend:** HTML, CSS (TailwindCSS), JavaScript, React
